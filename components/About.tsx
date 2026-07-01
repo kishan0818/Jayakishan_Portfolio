@@ -36,7 +36,7 @@ export default function About() {
           >
             <div className="glassmorphic rounded-2xl p-8 teal-glow-hover transition-all duration-300">
             <p className="text-lg text-gray-300 leading-relaxed mb-6">
-              I'm a <span className="text-[#00E0B8] font-semibold">Pre-final year IT student</span> at Sri Ramakrishna
+              I'm a <span className="text-[#00E0B8] font-semibold"> Final year IT student</span> at Sri Ramakrishna
               Engineering College (Class of 2027), specializing in AI, ML, and full-stack development.Over the past few years, 
               I've built AI-powered solutions in AI/ML + IoT Systems, Cybersecurity & Threat Detection, Healthcare AI & Optimization.
             </p>
